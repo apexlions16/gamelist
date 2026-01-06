@@ -30,7 +30,9 @@ PCG (PC - GAMES)
 25 - RAFT (12345) ✅
 26 - Marvel Spider-Man 2 ✅
 27 - Resident Evil 4 Remake ✅
-28 - Grand Theft Auto 1 ✅
+28 - Grand Theft Auto 1 ⏳
+29 - Grand Theft Auto 2 ⏳
+30 - Cyberpunk 2077 ⏳
 
 KNSG (KONSOL OYUNLARI)
 
