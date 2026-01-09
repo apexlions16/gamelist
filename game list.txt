@@ -34,7 +34,7 @@ PCG (PC - GAMES)
 29 - Grand Theft Auto 2 ✅
 30 - Cyberpunk 2077 ✅
 31 - Ghost of Tsushima Director's Cut ✅
-32 - Project Zomboid ⏳
+32 - Project Zomboid ❌
 33 - Hogwarts Legacy ⏳
 
 KNSG (KONSOL OYUNLARI)
@@ -85,6 +85,7 @@ XBX (XBOX 1)
 XB36 (XBOX 360)
 
 EMUS (EMULATORLER)
+
 
 
 
