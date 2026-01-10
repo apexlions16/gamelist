@@ -37,6 +37,7 @@ PCG (PC - GAMES)
 32 - Project Zomboid ❌ 🆗 (.rar - 12345)
 33 - Hogwarts Legacy ✅
 34 - Forza Horizon 5 (3 - Parts 34/1/2/3) ❌
+35 - Sons of the Forest ✅
 
 KNSG (KONSOL OYUNLARI)
 
@@ -86,6 +87,7 @@ XBX (XBOX 1)
 XB36 (XBOX 360)
 
 EMUS (EMULATORLER)
+
 
 
 
