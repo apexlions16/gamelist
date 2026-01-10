@@ -36,6 +36,7 @@ PCG (PC - GAMES)
 31 - Ghost of Tsushima Director's Cut ✅
 32 - Project Zomboid ❌ 🆗 (.rar - 12345)
 33 - Hogwarts Legacy ✅
+34 - Forza Horizon 5 (3 - Parts 34/1/2/3) ✅
 
 KNSG (KONSOL OYUNLARI)
 
@@ -85,6 +86,7 @@ XBX (XBOX 1)
 XB36 (XBOX 360)
 
 EMUS (EMULATORLER)
+
 
 
 
